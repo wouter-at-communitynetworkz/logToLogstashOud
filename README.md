@@ -1,2 +1,2 @@
-# gradleMulti
-multi project gradle system
+# logToLogstash
+part of multi project gradle system
